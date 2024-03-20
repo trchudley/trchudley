@@ -1,4 +1,6 @@
-### Hi there 👋
+I am a glaciologist interested in ice sheet dynamics, glacial hydrology, and ice-ocean interactions. My current research aims to assess the influence of crevasse hydrology on the dynamics of the Greenland Ice Sheet. I am using large-scale satellite analysis, including deep learning approaches, to map fractures and water across Greenland, and numerical modelling to investigate the effect on long-term ice-sheet stability.
+
+Contact: thomas.r.chudley@durham.ac.uk
 
 <!--
 **trchudley/trchudley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
