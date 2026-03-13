@@ -2,7 +2,7 @@ I am a glaciologist and geospatial data scientist interested in using large-scal
 
  - Developing ‘big data’ Earth‑observation methods, including deep‑learning approaches, for large‑scale, automated analysis of ice sheet behaviour.
  - Understanding the coupling between ice fracture (i.e. crevasses), meltwater pathways, and ice dynamics.
- - Building [open‑source tools](github.com/trchudley/pdemtools) that make glaciological methods more accessible and scalable.
+ - Building [open‑source tools](https://github.com/trchudley/pdemtools) that make glaciological methods more accessible and scalable.
  - Investigating the drivers of outlet‑glacier sensitivity to ocean forcing.
  - Using high‑resolution digital elevation models (DEMs) to [monitor changes in ice‑sheet geometry and surface processes](https://github.com/trchudley/crevdem).
  - Integrating observations and theory to develop practical parameterisations of glacier hydrology within large‑scale ice‑sheet models.
