@@ -1,6 +1,15 @@
-I am a glaciologist and geospatial data scientist interested in using Earth observation, fieldwork, and numerical modelling to investigate ice sheet dynamics, glacial hydrology, and ice-ocean interactions. My current research aims to assess the influence of crevasse hydrology on the dynamics of the Greenland Ice Sheet. I am using large-scale satellite analysis, including deep learning approaches, to map fractures and water across Greenland, and numerical modelling to investigate the effect on long-term ice-sheet stability.
+I am a glaciologist and geospatial data scientist interested in using large-scale Earth observation, geophysical fieldwork, and numerical modelling to investigate ice sheet dynamics, glacial hydrology, and ice-ocean interactions. Some of my specific research interests include the following:
 
-Contact: tom.chudley@bristol.ac.uk
+ - Developing ‘big data’ Earth‑observation methods, including deep‑learning approaches, for large‑scale, automated analysis of ice sheet behaviour.
+ - Understanding the coupling between ice fracture (i.e. crevasses), meltwater pathways, and ice dynamics.
+ - Building [open‑source tools](github.com/trchudley/pdemtools) that make glaciological methods more accessible and scalable.
+ - Investigating the drivers of outlet‑glacier sensitivity to ocean forcing.
+ - Using high‑resolution digital elevation models (DEMs) to [monitor changes in ice‑sheet geometry and surface processes](https://github.com/trchudley/crevdem).
+ - Integrating observations and theory to develop practical parameterisations of glacier hydrology within large‑scale ice‑sheet models.
+
+By monitoring how glacier and ice‑sheet dynamics are evolving - and uncovering the processes driving those changes - I aim to improve our understanding of how these systems will respond to climate forcing through the 21st century and beyond.
+
+Contact me: tom.chudley@bristol.ac.uk
 
 <!--
 **trchudley/trchudley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
