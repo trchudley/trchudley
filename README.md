@@ -1,6 +1,6 @@
 I am a glaciologist and geospatial data scientist interested in using large-scale Earth observation, geophysical fieldwork, and numerical modelling to investigate ice sheet dynamics, glacial hydrology, and ice-ocean interactions. Some of my specific research interests include the following:
 
- - Developing ‘big data’ Earth‑observation methods, including deep‑learning approaches, for large‑scale, automated analysis of ice sheet behaviour.
+ - Developing ‘big data’ Earth‑observation methods, including [deep‑learning approaches](https://github.com/trchudley/crevasse-hydrology-unet), for large‑scale, automated analysis of ice sheet behaviour.
  - Understanding the coupling between ice fracture (i.e. crevasses), meltwater pathways, and ice dynamics.
  - Building [open‑source tools](https://github.com/trchudley/pdemtools) that make glaciological methods more accessible and scalable.
  - Investigating the drivers of outlet‑glacier sensitivity to ocean forcing.
